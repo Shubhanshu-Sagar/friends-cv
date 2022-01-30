@@ -1,0 +1,211 @@
+#introduction{
+  background-color: #B8405E;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1500'%3E%3Cdefs%3E%3Crect fill='none' stroke-width='8.7' stroke-opacity='0.1' id='a' x='-400' y='-300' width='800' height='600'/%3E%3C/defs%3E%3Cg transform='scale(0.64)' style='transform-origin:center'%3E%3Cg transform='rotate(32.4 0 0)' style='transform-origin:center'%3E%3Cg transform='rotate(-70.4 0 0)' style='transform-origin:center'%3E%3Cg transform='translate(1000 750)'%3E%3Cuse stroke='%23020301' href='%23a' transform='rotate(4.4 0 0) scale(1.044)'/%3E%3Cuse stroke='%23101411' href='%23a' transform='rotate(8.8 0 0) scale(1.088)'/%3E%3Cuse stroke='%231e2522' href='%23a' transform='rotate(13.2 0 0) scale(1.132)'/%3E%3Cuse stroke='%232c3532' href='%23a' transform='rotate(17.6 0 0) scale(1.176)'/%3E%3Cuse stroke='%23394642' href='%23a' transform='rotate(22 0 0) scale(1.22)'/%3E%3Cuse stroke='%23475752' href='%23a' transform='rotate(26.4 0 0) scale(1.264)'/%3E%3Cuse stroke='%23556863' href='%23a' transform='rotate(30.8 0 0) scale(1.308)'/%3E%3Cuse stroke='%23637973' href='%23a' transform='rotate(35.2 0 0) scale(1.352)'/%3E%3Cuse stroke='%23718983' href='%23a' transform='rotate(39.6 0 0) scale(1.396)'/%3E%3Cuse stroke='%237f9a93' href='%23a' transform='rotate(44 0 0) scale(1.44)'/%3E%3Cuse stroke='%238daba4' href='%23a' transform='rotate(48.4 0 0) scale(1.484)'/%3E%3Cuse stroke='%239bbcb4' href='%23a' transform='rotate(52.8 0 0) scale(1.528)'/%3E%3Cuse stroke='%23a8cdc4' href='%23a' transform='rotate(57.2 0 0) scale(1.572)'/%3E%3Cuse stroke='%23b6ddd4' href='%23a' transform='rotate(61.6 0 0) scale(1.616)'/%3E%3Cuse stroke='%23c4eee5' href='%23a' transform='rotate(66 0 0) scale(1.66)'/%3E%3Cuse stroke='%23D2FFF5' href='%23a' transform='rotate(70.4 0 0) scale(1.704)'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
+  padding:20% 5%;
+  background-color:#219F94;
+  text-align:center;
+}
+.heading-intro {
+  font-size: 4rem;
+font-family: 'Handlee', cursive;
+  /* text-shadow: 1px 1px 2px gold, 0 0 1em green, 0 0 0.2em gold; */
+  color: white;
+
+}
+h3{
+  color: white;
+
+font-family: 'Handlee', cursive;
+
+}
+.custombutton{
+  border-radius: 50%;
+  padding: 10px;
+  background-color: white;
+}
+
+
+
+
+
+#about-me{
+    text-align:center;
+
+
+}
+.about-me-para{
+  margin:  3% 5% 7% 5%;
+  padding: 0 20%;
+  line-height: 2;
+  color: #219F94;
+
+  font-family: 'Righteous', cursive;
+}
+.my-pic{
+  margin-top: 7%;
+  width: 200px;
+  display: inline-block;
+  border-radius: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#card-container{
+  padding: 5% 20%;
+  text-align: center;
+
+}
+
+
+
+
+.cardy{
+  width:300px;
+  height: 600px;
+  display: inline-block;
+  margin: 10%;
+  border-style: solid;
+  border: 7px;
+background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    text-align: center;
+      font-family: 'Righteous', cursive;
+
+
+}
+.cardy:hover {
+  box-shadow: 0 8px 16px 0 #219F94;
+}
+.card-top{
+  text-align: center;
+  background-color:#219F94;
+padding-bottom: 10px;
+  color: white;
+}
+.card-mid{
+
+  padding: 10px 30px;
+}
+
+.card-bottom{
+  padding: 10px 30px;
+}
+.project-heading {
+  font-size: 2rem;
+  color: black;
+  font-weight: bold;
+}
+
+
+
+
+#experience{
+  text-align: center;
+    background-color:#219F94;
+     color: #fff;
+     line-height: 1.5;
+     padding: 7% 5%;
+}
+ .experience-heading{
+   font-size: 2rem;
+   font-weight: bold;
+   margin-bottom: 6rem;
+
+
+ }
+ .row-exp{
+   padding-bottom: 30px;
+ }
+
+
+
+
+
+ #skills{
+
+     background-color:#219F94;
+      color: #fff;
+      line-height: 1.5;
+      padding: 7% 5% 2% 5%;
+ }
+
+ .skill-row{
+   text-align: left;
+   margin: 7% auto;
+   width: 50%;
+ }
+ .skill-img-1{
+   float: left;
+   margin-right: 30px;
+ }
+ .skill-img-2{
+   float: right;
+   margin-left: 30px
+
+
+ }
+ .mis-heading, .mis-paragraph{
+   text-align:right;
+   line-height: 2;
+
+ }
+.skill-paragraph-1{
+  font-family: 'Righteous', cursive;
+}
+.mis-paragraph{
+    font-family: 'Righteous', cursive;
+}
+
+ #get-in-touch{
+   background-color: #219F94;
+   text-align: center;
+     padding-bottom:2%;
+     font-size: 1rem;
+ }
+ .footer-link {
+   margin: 1%;
+   color: white;
+   margin-top: 12px;
+ }
+ .contact-container{
+   margin-top: 2%;;
+   margin-bottom: 1%;
+ }
+ .footer-link:hover{
+   color: #000;
+ }
+.footer-heading{
+  font-size: 3rem;
+  margin-bottom: 2%;
+}
+.contact-number{
+  margin-left: 30%;
+}
+  /* NAVBAR */
+  .nav-cus{
+    
+
+ padding-left:    2%;
+background-color: #219F94;
+opacity: 0.9;
+
+  }
+  .nav-list-items{
+    color: black;
+  }
+ .nav-list-items:hover{
+    color: gold;
+    font-family: 'Righteous', cursive;
+  }
